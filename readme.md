@@ -7,7 +7,7 @@
 Projeto construído no curso Explorer da Rocketseat.
 Uma página fictícia sobre um programa de treinos de exercícios físicos.
 
-[🔗 Clique aqui para acessar](https://tkoch97.github.io/projeto-2-rocket)
+[🔗 Clique aqui para acessar](https://tkoch97.github.io/Projeto-2)
 
 ## 🔧 Tecnologias
 
