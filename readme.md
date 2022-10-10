@@ -1,6 +1,6 @@
 # Projeto 2 Rocketseat - explorer
 
-![preview](github/preview.png)
+![preview](.github/preview.png)
 
 >Trilha explorer > stage 2 - Novos conceitos de HTML e CSS
 
